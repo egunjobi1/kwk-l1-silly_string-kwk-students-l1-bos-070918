@@ -1,4 +1,5 @@
-
+your_favorite_word = "suppose"
+puts "My favourite word is #{your_favorite_word}"
 # Challenge 1: Fill this string in with your favorite word
 
 your_favorite_word = ""
