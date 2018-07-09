@@ -1,12 +1,9 @@
-your_favourite_word = "suppose"
-puts "My favourite word is {your_favourite_word}"
-favourite_word_in_all_caps = your_favourite_word.upcase
-puts "MY FAVOURITE WORD IS {favourite_word_in_all_caps}"
+
 # Challenge 1: Fill this string in with your favourite word
 
-your_favourite_word = ""
+your_favourite_word = "suppose"
 
-puts "My favourite word is #{your_favorite_word}"
+puts "My favourite word is #{suppose}"
 
 # Challenge 2: Capitalize every letter in your_favorite_word using a built in Ruby method
 
